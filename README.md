@@ -41,11 +41,10 @@ Um dos pilares deste projeto é a **credibilidade**. Nenhuma informação exibid
 
 ---
 
-## 👥 Autores / Integrantes do Grupo
+## 👥 Autor
 
-* **[Seu Nome Aqui]** - Desenvolvedor Front-end / Pesquisa de Dados
-* **[Nome do Colega]** - Designer UI/UX / Pesquisa de Dados
-* **[Nome do Colega]** - Documentação e Revisão de Fontes
+* **[Emanuel lucazewicz]** - Desenvolvedor Front-end / Pesquisa de Dados
+
 
 ---
 *Projeto desenvolvido exclusivamente para fins educativos e submissão ao Concurso Agrinho 2026.*
